@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Kunal Thakkar
-- 👀 I’m interested in graphic designing and programming
-- 🌱 I’m currently pursuing my Bachelor's in Engineering
-- 📫 You can reach me through thakkar.km@somaiya.edu
+# Hey
