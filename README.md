@@ -1,2 +1,2 @@
 ## Hey there!
-![Me](images/about.jpg)
+![Me](images/About.png)
