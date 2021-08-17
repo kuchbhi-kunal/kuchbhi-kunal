@@ -7,6 +7,6 @@ I love excuting ideas and build something that people find value in :godmode:
 Whether you'd like to discuss building an idea together, ask me a question or just want to say hi, my inbox is always open :)
 love_letter: : thakkar.km@somaiya.edu
 ## 🔗 Links
-[![instagram](instagram.png)](https://instagram.com/kuchbhikunal)
+[![instagram](assets/instagram.png)](https://instagram.com/kuchbhikunal)
 [![linkedin](assets/linkedin.png)](https://www.linkedin.com/)
 
