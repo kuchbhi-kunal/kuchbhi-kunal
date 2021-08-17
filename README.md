@@ -8,5 +8,5 @@ Whether you'd like to discuss building an idea together, ask me a question or ju
 love_letter: : thakkar.km@somaiya.edu
 ## 🔗 Links
 [![instagram](instagram.png)](https://instagram.com/kuchbhikunal)
-[![linkedin](linkedin.png)](https://www.linkedin.com/)
+[![linkedin](assets/linkedin.png)](https://www.linkedin.com/)
 
