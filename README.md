@@ -13,7 +13,7 @@ Whether you'd like to discuss building an idea together, ask me a question or ju
 [![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/kunal-thakkar-parallelpvt) &nbsp; &nbsp; &nbsp;
 [![instagram](assets/instagram.svg)](https://www.instagram.com/kuchbhikunal) 
 
-## FAQ :thought_balloon:
+## Frequently Asked :thought_balloon:
 
 #### Can you design and develope a website for me?
 Yes :heavy_check_mark:
