@@ -8,6 +8,7 @@ I am an Engineering Student and I love to design and code. I started a company c
 I love executing ideas and build something that people find value in :sunflower:
 Whether you'd like to discuss building an idea together, ask me a question or just want to say hi, my inbox is always open :smile:</br>
 :love_letter: : thakkar.km@somaiya.edu
+:round_pushpin: Mumbai, India (Bharat)
 
 ## Connect With Me :link:
 [![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/kunal-thakkar-parallelpvt) &nbsp; &nbsp; &nbsp;
