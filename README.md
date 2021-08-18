@@ -1,5 +1,5 @@
 # Hi, I'm Kunal Thakkar! :alien:
-![Logo](assets/logo.png)
+![Logo](assets/logo.svg)
 ## About Me 🚀
 ![itsme](assets/ItsMe.svg)
 
