@@ -5,8 +5,9 @@ I am an Engineering Student and I love to design and code. I started a company c
 
 I love excuting ideas and build something that people find value in :godmode:
 Whether you'd like to discuss building an idea together, ask me a question or just want to say hi, my inbox is always open :)
-love_letter: : thakkar.km@somaiya.edu
+
+:love_letter: : thakkar.km@somaiya.edu
 ## 🔗 Links
-[![instagram](assets/instagram.png)](https://instagram.com/kuchbhikunal)
-[![linkedin](assets/linkedin.png)](https://www.linkedin.com/)
+[![linkedin](assets/linkedin.png)]()
+[![instagram](assets/instagram.png)](https://www.instagram.com/kuchbhikunal)
 
