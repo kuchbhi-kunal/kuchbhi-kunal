@@ -1,4 +1,4 @@
-# Hi, I'm Kunal Thakkar! :alien:
+# Hi, I'm Kunal Thakkar! :trollface:
 ![Logo](assets/logo.svg)
 ## About Me 🚀
 ![itsme](assets/ItsMe.svg)
