@@ -32,6 +32,14 @@ Nope :x:
 
 #### Can I send you pictures of my pet?
 Pls :heart:
+<br>
+<br>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kuchbhi-kunal&show_icons=true&locale=en" alt="kuchbhi-kunal" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuchbhi-kunal&" alt="kuchbhi-kunal" /></p>
 
 
   
