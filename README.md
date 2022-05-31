@@ -37,9 +37,10 @@ Pls :heart:
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kuchbhi-kunal&show_icons=true&locale=en" alt="kuchbhi-kunal" /></p>
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuchbhi-kunal&count_private=true&theme=swift)
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuchbhi-kunal&" alt="kuchbhi-kunal" /></p>
+
 
 
   
