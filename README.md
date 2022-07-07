@@ -1,7 +1,10 @@
 # Hi, I'm Kunal Thakkar! 👽
 ![Logo](assets/logo.svg)
 ## About Me 🚀
-![itsme](assets/ItsMe.svg)
+<br>
+<p align="center">
+  <img src="assets/ItsMe.svg" />
+</p>
 
 I am an Engineering Student and I love to design and code. I started a company called Parallel Pvt. which is the parent company to all my projects as well as a Custom Software/Design Development Agency. In the world :earth_asia: of Cocktails , you've got to have a perfect mix. I'm like a great mix with just right balance of hardwork, fresh perspective and seasoned knowledge to create something beautiful and innovative.
 
