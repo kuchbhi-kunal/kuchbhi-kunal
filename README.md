@@ -14,7 +14,7 @@ Whether you'd like to discuss building an idea together, ask me a question or ju
  :round_pushpin:   : Mumbai, Bharat (India) 
 
 ## Connect With Me :link:
-[![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/kunal-thakkar-parallelpvt) &nbsp; &nbsp; &nbsp;
+[![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/kuchbhikunal) &nbsp; &nbsp; &nbsp;
 [![instagram](assets/instagram.svg)](https://www.instagram.com/kuchbhikunal) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuchbhi-kunal&label=Profile%20views&color=0e75b6&style=flat" alt="kuchbhi-kunal" /> </p>
