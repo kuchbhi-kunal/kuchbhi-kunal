@@ -40,9 +40,6 @@ Pls :heart:
 <p align="left">
 </p>
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuchbhi-kunal&count_private=true&theme=swift)
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuchbhi-kunal&" alt="kuchbhi-kunal" /></p>
 
 [![An image of @kuchbhikunal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kuchbhikunal)](https://holopin.io/@kuchbhikunal)
 
