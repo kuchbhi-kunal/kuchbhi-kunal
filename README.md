@@ -2,9 +2,9 @@
 ![Logo](assets/logo.svg)
 ## About Me 🚀
 <br>
-<p align="center">
+<!-- <p align="center">
   <img src="assets/ItsMe.svg" />
-</p>
+</p> -->
 
 I am an Engineering Student and I love to design and code. In the world :earth_asia: of Cocktails , you've got to have a perfect mix. I'm like a great mix with just right balance of hardwork, fresh perspective and seasoned knowledge to create something beautiful and innovative.
 
