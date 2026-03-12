@@ -1,5 +1,5 @@
 # Hi, I'm Kunal Thakkar! 👽
-![Logo](assets/logo.svg)
+
 ## About Me 🚀
 <br>
 <!-- <p align="center">
