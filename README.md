@@ -13,28 +13,9 @@ Whether you'd like to discuss building an idea together, ask me a question or ju
 :love_letter: : thakkar.km@somaiya.edu </br>
  :round_pushpin:   : Mumbai, Bharat (India) 
 
-## Connect With Me :link:
-[![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/kuchbhikunal) &nbsp; &nbsp; &nbsp;
-[![instagram](assets/instagram.svg)](https://www.instagram.com/kuchbhikunal) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuchbhi-kunal&label=Profile%20views&color=0e75b6&style=flat" alt="kuchbhi-kunal" /> </p>
 
-## Frequently Asked :thought_balloon:
-
-#### Can you design and develope a website for me?
-Yes :heavy_check_mark:
-
-#### Can you help me with my startup?
-Yes :heavy_check_mark:
-
-#### Can you design a logo, illustration, mock-ups for me?
-Yes :heavy_check_mark:
-
-#### Am i texting a robot?
-Nope :x:
-
-#### Can I send you pictures of my pet?
-Pls :heart:
 <br>
 <br>
 <p align="left">
