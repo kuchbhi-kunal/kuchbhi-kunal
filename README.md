@@ -1,4 +1,4 @@
-# Hi, I'm Kunal Thakkar! 👽
+# Hi, I'm Kunal Thakkar! 
 
 ## About Me 🚀
 <br>
